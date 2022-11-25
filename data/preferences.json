@@ -1,0 +1,26 @@
+{
+    "default_locale": "en",
+    "autostart_path": "~/.config/autostart/adk-linux-hello.desktop",
+    "data_path": "/usr/share/adk-linux-hello/data/",
+    "desktop_path": "/usr/share/applications/adk-linux-hello.desktop",
+    "installer_path": "/usr/bin/adk-linux-hello",
+    "live_path": "/run/miso/bootmnt/adk-linux",
+    "locale_path": "/usr/share/locale/",
+    "logo_path": "/usr/share/icons/hicolor/64x64/apps/adk-linux.png",
+    "save_path": "~/.config/adk-linux-hello.json",
+    "ui_path": "/usr/share/adk-linux-hello/ui/adk-linux-hello.glade",
+    "style_path": "/usr/share/adk-linux-hello/ui/style.css",
+    "urls": {
+        "development": "https://github.com/archlinux",
+        "software": "https://archlinux.org/packages/",
+        "donate": "https://archlinux.org/donate/",
+        "facebook": "https://www.facebook.com/archlinuxpage/",
+        "forum": "https://bbs.archlinux.org/",
+        "telegram": "https://t.me/ArchLinux",
+        "mailling": "https://lists.archlinux.org/mailman3/lists/",
+        "reddit": "https://www.reddit.com/r/archlinux/",
+        "twitter": "https://twitter.com/archupdates",
+        "wiki": "https://wiki.archlinux.org/",
+        "irc": "https://web.libera.chat/#archlinux"
+    }
+}

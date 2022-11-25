@@ -1,0 +1,122 @@
+# Translation of ADK-Linux-Hello.
+# Copyright (C) 2016-2017 Manjaro Developers <manjaro-dev@manjaro.org>
+# Copyright (C) 2022 Koragg <31944041+KoraggKnightWolf@users.noreply.github.com>
+# This file is distributed under the same license as the ADK-Linux-Hello package.
+# Hugo Posnic <huluti@manjaro.org>, 2016-2017.
+# Koragg <31944041+KoraggKnightWolf@users.noreply.github.com>, 2022
+# 
+# Translators:
+# philm <philm@manjaro.org>, 2016
+# Jan Jansen, 2016
+# Bernhard Landauer <bernhard@oberon.at>, 2017
+# Christian G <geblerc@gmail.com>, 2018
+# Koragg <31944041+KoraggKnightWolf@users.noreply.github.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: ADK-Linux-Hello\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-04 10:28+0100\n"
+"PO-Revision-Date: 2022-11-01 17:05+0100\n"
+"Last-Translator: Koragg <31944041+KoraggKnightWolf@users.noreply.github.com>, 2022\n"
+"Language-Team: German (https://www.transifex.com/manjarolinux/teams/70274/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ui/adk-linux-hello.glade:55
+msgid "Welcome to ADK-Linux!"
+msgstr "Willkommen bei ADK-Linux!"
+
+#: ui/adk-linux-hello.glade:71
+msgid ""
+"Thank you for joining our community!\n"
+"\n"
+"We, the ADK-Linux Developers, hope that you will enjoy using ADK-Linux as much as we enjoy building it. The links below will help you get started with your new operating system. So enjoy the experience, and don't hesitate to send us your feedback."
+msgstr ""
+"Danke, dass Sie sich unserer Community anschließen!\n"
+"\n"
+"Wir, die ADK-Linux-Entwickler, hoffen, dass Sie gneausoviel Freude daraben haben werden ADK-Linux zu benutzen, wie wir Freude daran haben, es zu entwickeln. Die Links unten werden Ihnen helfen sich in Ihrem neuen Betriebssystem zurechtzufinden. Genießen Sie diese Erfahrung und zögern Sie nicht Ihr Feedback an uns zu senden."
+
+#: ui/adk-linux-hello.glade:89
+msgid "DOCUMENTATION"
+msgstr "DOKUMENTATION"
+
+#: ui/adk-linux-hello.glade:103
+msgid "SUPPORT"
+msgstr "UNTERSTÜTZUNG"
+
+#: ui/adk-linux-hello.glade:117
+msgid "PROJECT"
+msgstr "PROJEKT"
+
+#: ui/adk-linux-hello.glade:129
+msgid "Read me"
+msgstr "Lies mich"
+
+#: ui/adk-linux-hello.glade:143
+msgid "Release info"
+msgstr "Versionshinweise"
+
+#: ui/adk-linux-hello.glade:158
+msgid "Wiki"
+msgstr "Wiki"
+
+#: ui/adk-linux-hello.glade:163 ui/adk-linux-hello.glade:194
+#: ui/adk-linux-hello.glade:211 ui/adk-linux-hello.glade:228
+#: ui/adk-linux-hello.glade:245 ui/adk-linux-hello.glade:262
+msgid "Web resource"
+msgstr "Web-Ressource"
+
+#: ui/adk-linux-hello.glade:175
+msgid "Get involved"
+msgstr "Mitmachen"
+
+#: ui/adk-linux-hello.glade:189
+msgid "Forums"
+msgstr "Forum"
+
+#: ui/adk-linux-hello.glade:206
+msgid "Chat room"
+msgstr "Chatroom"
+
+#: ui/adk-linux-hello.glade:223
+msgid "Mailing lists"
+msgstr "Mailingliste"
+
+#: ui/adk-linux-hello.glade:240
+msgid "Development"
+msgstr "Entwicklung"
+
+#: ui/adk-linux-hello.glade:257
+msgid "Donate"
+msgstr "Spenden"
+
+#: ui/adk-linux-hello.glade:376
+msgid "Launch at start"
+msgstr "Beim Systemstart ausführen"
+
+#: ui/adk-linux-hello.glade:407
+msgid "INSTALLATION"
+msgstr "INSTALLATION"
+
+#: ui/adk-linux-hello.glade:419
+msgid "Launch installer"
+msgstr "Installer starten"
+
+#: ui/adk-linux-hello.glade:462
+msgid "Home"
+msgstr "Hauptseite"
+
+#: ui/adk-linux-hello.glade:530 ui/adk-linux-hello.glade:544
+msgid "About"
+msgstr "Über"
+
+#: ui/adk-linux-hello.glade:549
+msgid "Welcome screen for ADK-Linux"
+msgstr "Begrüßungsdialog für ADK-Linux"
+
+#: src/adk-linux_hello.py:212
+msgid "Can't load page."
+msgstr "Seite kann nicht geladen werden."
