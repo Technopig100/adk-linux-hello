@@ -66,7 +66,7 @@
                 <property name="can-focus">False</property>
                 <property name="label" translatable="yes">Thank you for joining our community!
 
-I hope that you will enjoy using ADK-Linux as much as I enjoyed building it. The links below are to Arch Linux (ADK-Linux is a respin of Arch Linux) and will help you get started with your new operating system. So enjoy the experience, and don't hesitate to send us your feedback.</property>
+I hope that you will enjoy using ADK-Linux as much as I enjoyed building it. The links below are to Arch Linux "ADK-Linux is based on Arch Linux" and will help you get started with your new operating system. So enjoy the experience, and don't hesitate to send us your feedback.</property>
                 <property name="justify">fill</property>
                 <property name="wrap">True</property>
                 <property name="width-chars">1</property>
