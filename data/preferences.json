@@ -11,7 +11,7 @@
     "ui_path": "/usr/share/adk-linux-hello/ui/adk-linux-hello.glade",
     "style_path": "/usr/share/adk-linux-hello/ui/style.css",
     "urls": {
-        "development": "https://github.com/archlinux",
+        "development": "https://github.com/Technopig100",
         "software": "https://archlinux.org/packages/",
         "donate": "https://archlinux.org/donate/",
         "facebook": "https://www.facebook.com/archlinuxpage/",
