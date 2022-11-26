@@ -48,7 +48,7 @@
                 <property name="visible">True</property>
                 <property name="can-focus">True</property>
                 <property name="has-focus">True</property>
-                <property name="label" translatable="yes">Welcome to ADK-Linux!</property>
+                <property name="label" translatable="yes">A Respin of Arch Linux!</property>
                 <attributes>
                   <attribute name="weight" value="bold"/>
                   <attribute name="scale" value="2"/>
