@@ -12,7 +12,7 @@ With <a href="https://wiki.archlinux.org/title/KDE#Plasma/">KDE Plasma</a> deskt
 
 <big>BTRFS Filesystem</big>
 
-<a href="https://btrfs.wiki.kernel.org/index.php/Main_Page">BTRFS</a> is a modern copy on write (CoW) file-system for Linux aimed at implementing advanced features while also focusing on fault tolerance, repair and easy administration. And the inclusion of Timeshift allows for the creation of snapshots to quickly reload a previous system setting before an update allowing you to roll-back.
+<a href="https://btrfs.wiki.kernel.org/index.php/Main_Page">BTRFS</a> is a modern copy on write (CoW) file-system for Linux aimed at implementing advanced features while also focusing on fault tolerance, repair and easy administration. And the inclusion of <a href="https://github.com/linuxmint/timeshift">Timeshift</a> allows for the creation of snapshots to quickly reload a previous system setting before an update allowing you to roll-back.
 
 <big>Aritim-Dark Desktop Theme</big>
 
