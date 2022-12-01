@@ -1,30 +1,21 @@
-<big>Handling hardware</big>
+<big>Plasma Desktop</big>
 
-ADK-Linux not only supports the use of multiple kernels (selectable from the advanced options at the boot screen), but also provides access to the very latest bleeding-edge kernels as well.
+With Plasma the user is king. Not happy with the color scheme? Change it! Want to have your panel on the left edge of the screen? Move it! Don't like the font? Use a different one! Download custom widgets in one click and add them to your desktop or panel. 
 
-<big>Getting help</big>
+<big>BTRFS Filesystem</big>
 
-Although ADK-Linux is designed to work "out of the box", I don't claim it's perfect. There can be times when things go wrong, you might have questions and a desire to learn more, or just want to personalize it to suit your tastes. This page provides details of some available resources to help you!
+Btrfs is a modern copy on write (CoW) filesystem for Linux aimed at implementing advanced features while also focusing on fault tolerance, repair and easy administration. And the inclusion of Timeshift allows for the creation of snapshots to quickly reload a previous system setting.
 
-<b>Search the web</b>
+<b>Arch Linux Based</b>
 
-Perhaps the first place to look for generic Linux help is by using your favorite search engine. Just include words like 'Linux', 'ADK-Linux' or 'Arch' in your search query.
+Arch Linux is an independently developed, x86-64 general-purpose GNU/Linux distribution that strives to provide the latest stable versions of most software by following a rolling-release model. The default installation is a minimal base system, configured by the user to only add what is purposely required.
 
-<b>Look in the forums</b>
+<b>Plasma Desktop Theme</b>
 
-For specific help with ADK-Linux I suggest the Arch Linux online forum where you can search for topics, or create one yourself! This is probably the next best place to go for collaboration, discussion and assistance. Ask for help, post your thoughts, or outline some suggestions. Don't be shy!
+ADK-Linux uses a simple dark theme.
+Based around Aritim-Dark desktop layout, or you can install and use any theme you wish.
 
-The Arch Linux forum is divided into sub-forums for different topics and environments, please post your query in the appropriate place!
-
-<b>Join Arch on Telegram</b>
-
-Another option is to join Arch Linux on <a href="https://t.me/ArchLinux">Telegram</a>.
-
-<b>Sign up to a mailing list</b>
-
-Another way to get help is to email questions to Arch Linux mailing list (you can also search the history for past discussions). Simply sign up to the list you prefer and follow the instructions. There is a list dedicated to several topics, just take a look!
-
-<big>Other resources</big>
+<big>Helpful Arch Linux Resources</big>
 
     - <a href="https://forum.archlinux.de/">Arch Linux Germany</a> - Official, support for our german community.
     - <a href="https://aur.archlinux.org">AUR Repository</a> - Extra software not in the regular repositories, built from source.
