@@ -4,19 +4,19 @@ ADK-Linux is a simple Arch Linux re-spine with a Plasma desktop installed on a B
 
 <big>Arch Linux Based</big>
 
-Arch Linux is an independently developed, x86-64 general-purpose GNU/Linux distribution that strives to provide the latest stable versions of most software by following a rolling-release model. The default installation is a minimal base system, configured by the user to only add what is purposely required.
+<a href="https://archlinux.org/">Arch Linux</a> is an independently developed, x86-64 general-purpose GNU/Linux distribution that strives to provide the latest stable versions of most software by following a rolling-release model. The default installation is a minimal base system, configured by the user to only add what is purposely required.
 
 <big>Plasma Desktop</big>
 
-With KDE Plasma desktop the user is king. Not happy with the color scheme? Change it! Want to have your panel on the left edge of the screen? Move it! Don't like the font? Use a different one! Download custom widgets in one click and add them to your desktop or panel. 
+With <a href="https://wiki.archlinux.org/title/KDE#Plasma/">KDE Plasma</a> desktop the user is king. Not happy with the color scheme? Change it! Want to have your panel on the left edge of the screen? Move it! Don't like the font? Use a different one! Download custom widgets in one click and add them to your desktop or panel. 
 
 <big>BTRFS Filesystem</big>
 
-Btrfs is a modern copy on write (CoW) file-system for Linux aimed at implementing advanced features while also focusing on fault tolerance, repair and easy administration. And the inclusion of Timeshift allows for the creation of snapshots to quickly reload a previous system setting before an update allowing you to roll-back.
+<a href="https://wiki.archlinux.org/title/Btrfs/">BTRFS</a> is a modern copy on write (CoW) file-system for Linux aimed at implementing advanced features while also focusing on fault tolerance, repair and easy administration. And the inclusion of Timeshift allows for the creation of snapshots to quickly reload a previous system setting before an update allowing you to roll-back.
 
 <big>Aritim-Dark Desktop Theme</big>
 
-ADK-Linux uses a simple dark theme based around Aritim-Dark desktop layout And a icon theme based around Flat-Remix, but you can install and use any theme or icons you wish.
+ADK-Linux uses a simple dark theme based on <a href="https://github.com/Mrcuve0/Aritim-Dark/">Aritim-Dark</a> desktop theme And a icon set based around <a href="https://github.com/daniruiz/flat-remix/">Flat-Remix</a>, but you can install and use any theme or icons you wish.
 Just have fun!
 
 <big>Helpful Arch Linux Resources</big>

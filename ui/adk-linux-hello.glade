@@ -151,7 +151,7 @@ I hope that you will enjoy using ADK-Linux as much as I enjoyed building it. The
             </child>
             <child>
               <object class="GtkButton" id="wiki">
-                <property name="label" translatable="yes">Wiki</property>
+                <property name="label" translatable="yes">Arch Wiki</property>
                 <property name="name">wiki</property>
                 <property name="visible">True</property>
                 <property name="can-focus">False</property>
@@ -182,7 +182,7 @@ I hope that you will enjoy using ADK-Linux as much as I enjoyed building it. The
             </child>
             <child>
               <object class="GtkButton" id="forum">
-                <property name="label" translatable="yes">Forums</property>
+                <property name="label" translatable="yes">Arch Forums</property>
                 <property name="name">forum</property>
                 <property name="visible">True</property>
                 <property name="can-focus">False</property>
@@ -199,7 +199,7 @@ I hope that you will enjoy using ADK-Linux as much as I enjoyed building it. The
             </child>
             <child>
               <object class="GtkButton" id="software">
-                <property name="label" translatable="yes">Software</property>
+                <property name="label" translatable="yes">Arch Software</property>
                 <property name="name">software</property>
                 <property name="visible">True</property>
                 <property name="can-focus">False</property>
@@ -216,7 +216,7 @@ I hope that you will enjoy using ADK-Linux as much as I enjoyed building it. The
             </child>
             <child>
               <object class="GtkButton" id="mailling">
-                <property name="label" translatable="yes">Mailing lists</property>
+                <property name="label" translatable="yes">Arch Mailing lists</property>
                 <property name="name">mailling</property>
                 <property name="visible">True</property>
                 <property name="can-focus">False</property>
@@ -233,7 +233,7 @@ I hope that you will enjoy using ADK-Linux as much as I enjoyed building it. The
             </child>
             <child>
               <object class="GtkButton" id="development">
-                <property name="label" translatable="yes">Development</property>
+                <property name="label" translatable="yes">ADK Development</property>
                 <property name="name">development</property>
                 <property name="visible">True</property>
                 <property name="can-focus">False</property>
@@ -250,7 +250,7 @@ I hope that you will enjoy using ADK-Linux as much as I enjoyed building it. The
             </child>
             <child>
               <object class="GtkButton" id="donate">
-                <property name="label" translatable="yes">Donate</property>
+                <property name="label" translatable="yes">Donate to Arch</property>
                 <property name="name">donate</property>
                 <property name="visible">True</property>
                 <property name="can-focus">False</property>
